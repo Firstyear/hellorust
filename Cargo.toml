@@ -1,0 +1,15 @@
+[package]
+name = "hellorust"
+version = "0.1.0"
+authors = ["William Brown <william@blackhats.net.au>"]
+edition = "2018"
+license = "MPL-2.0"
+description = "Hello Rust!"
+homepage = "https://github.com/Firstyear/hellorust"
+repository = "https://github.com/Firstyear/hellorust"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.0"
+
